@@ -226,13 +226,19 @@ Karena itu, untuk mendapatkan palette Inkscape secara lengkap, pastikan Inkscape
 
 ### Inkscape Palette
 
+![Inkcopi - Pallete](./pic/inkcopi-inkscape_palet.png)
+
 Inkcopi menampilkan palette Inkscape sebagai kumpulan blok warna yang dapat dinavigasi menggunakan keyboard.
 
 ### Manual RGB
 
+![Inkcopi - Manual RGB](./pic/inkcopi-manual_rgb.png)
+
 Mode RGB memungkinkan nilai Red, Green, dan Blue diubah secara langsung dengan preview warna yang diperbarui secara realtime.
 
 ### Manual CMYK
+
+![Inkcopi - Manual CMYK](./pic/inkcopi-manual_rgb.png)
 
 Mode CMYK memungkinkan nilai Cyan, Magenta, Yellow, dan Black diubah secara langsung dengan preview warna.
 
